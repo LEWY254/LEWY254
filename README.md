@@ -50,7 +50,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc4aGF0Z2R0YmMyZW1wMHNwemo1eHNzZmhidWF1NnlmbDZwZzMwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/200.webp"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc4aGF0Z2R0YmMyZW1wMHNwemo1eHNzZmhidWF1NnlmbDZwZzMwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/200.webp"  />
 
 ###
 
@@ -61,8 +61,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LEWY254/LEWY254/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEWY254/LEWY254/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEWY254/LEWY254/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEWY254/LEWY254/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
