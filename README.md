@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lewy and I'm a Hobbyst Programmer from Kenya</h2>
+<h2 align="left">Hobbyst</h2>
 
 ###
 
